@@ -5,7 +5,7 @@ class Settings(BaseSettings):
 
     # Database
     database_url: str = Field(
-        "postgresql+psycopg2://postgres:postgres@localhost/vulntracker",
+        "mysql+pymysql://user:password@localhost/vulntracker",
         env="DATABASE_URL",
     )
 
