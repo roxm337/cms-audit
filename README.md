@@ -48,7 +48,7 @@ cms-audit/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/cms-audit.git
+git clone https://github.com/roxm337/cms-audit.git
 cd cms-audit/backend
 
 python3 -m venv venv
