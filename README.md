@@ -16,6 +16,7 @@ RESTful API: Provides a clean and intuitive API for managing targets and retriev
 Real-time Updates: Findings are updated in the database as scans complete.
 
 🏗️ Project Structure
+'''
 cms-audit/
 ├── backend/
 │   ├── app/
@@ -29,7 +30,7 @@ cms-audit/
 │   ├── main.py                   # FastAPI application entry point
 │   └── requirements.txt          # Python dependencies
 └── README.md                     # This file
-
+'''
 📋 Prerequisites
 Before running this project, ensure you have the following installed on your system:
 
